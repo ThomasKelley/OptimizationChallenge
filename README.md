@@ -2,10 +2,10 @@
 
 ## Description
 
-Changes made include:
-Restructuring the footer and placing it below the body.
-Replacing non-semantic HTML elements with semantic elements.
-Adding alt attributes to image elements.
+### Changes made include:
+#### *Restructuring the footer and placing it below the body.
+#### *Replacing non-semantic HTML elements with semantic elements.
+#### *Adding alt attributes to image elements.
 
 ## Preview
 
